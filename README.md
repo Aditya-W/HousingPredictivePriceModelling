@@ -21,3 +21,6 @@ Pandas
 Matplotlib
 Seaborn
 Scikit-learn
+
+
+## [Final Presentation Slides and Video](https://drive.google.com/drive/folders/1m6mMtTfAHWnUJWxupiBXe15kdzrwrDk8?usp=drive_link)
