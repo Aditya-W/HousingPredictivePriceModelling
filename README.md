@@ -17,9 +17,13 @@ Empirical insights and analysis of model performance
 The code is written in Python and requires the following dependencies:
 
 NumPy
+
 Pandas
+
 Matplotlib
+
 Seaborn
+
 Scikit-learn
 
 
