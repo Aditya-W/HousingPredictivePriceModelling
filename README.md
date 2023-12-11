@@ -28,3 +28,5 @@ Scikit-learn
 
 
 ## [Final Presentation Slides and Video](https://drive.google.com/drive/folders/1m6mMtTfAHWnUJWxupiBXe15kdzrwrDk8?usp=drive_link)
+
+## [Code Demo](https://colab.research.google.com/drive/1EkAkQjTNfvkUPSOOVga1vnlz1OkxDwGy?usp=sharing)
